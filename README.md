@@ -5,7 +5,7 @@
 # 👋 Hi, I'm Joe George (@joegeorge-git)
 
 **🔭 I’m currently working on:**  
-- Web3 & blockchain integrations (Radix, Aptos, DFINITY)  
+- Web3 & blockchain integrations (DFINITY, Solana )  
 - 3D tools and graphics (Three.js editor, modeling prototypes)  
 - Open-source blockchain explorers (Symbol/NEM)
 
@@ -45,22 +45,3 @@ JavaScript, TypeScript, Vue.js, Node.js, wallet adapters, blockchain UI/UX
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joegeorge-git&show_icons=true&theme=dark)
 
 ---
-
-## 💡 Fun Extras
-
-- 🐍 Snake game using your contribution graph  
-- 🎮 Play chess or Connect4 via GitHub Actions  
-- 🎧 Now playing: Spotify music card
-
-*(See inspiration here: standout READMEs with games, stats, music—great ideas for dynamic profile content)* :contentReference[oaicite:0]{index=0}
-
----
-
-### ✅ How to set it up
-
-1. Create a **public repo** named `joegeorge‑git`  
-2. Add / update `README.md` with content above  
-3. Add GitHub Actions (e.g., for stats, snake, music)  
-4. Commit & push → profile auto-updates
-
-⚡ For badges, stats, and templates, check out **abrid
